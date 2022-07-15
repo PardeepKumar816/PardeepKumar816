@@ -24,6 +24,7 @@
  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" width="50" height="50" hspace="10">](https://www.facebook.com/Pardeepmalhi816/) 
 [<img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png" width="50" height="50" hspace="10">](https://www.linkedin.com/in/pardeep-kumar-a257221a1)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" width="50" height="50" hspace="10" >](https://twitter.com/Pardeepm006)
 [<img src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" width="50" height="50" hspace="10">](https://www.instagram.com/pardeep_hotwani/)
 [<img src="https://i1.sndcdn.com/avatars-000708374642-k6d7gm-t500x500.jpg" width="50" height="50" hspace="10">](https://stackoverflow.com/users/13776220/pardeep-malhi)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="50" height="50" hspace="10">](https://www.hackerrank.com/pardeepmalhi816)
