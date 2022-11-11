@@ -6,7 +6,11 @@
 <div align="center"> A multidisciplinary developer with an enormous craze of software development and technology, blessed with intellect and creativity. Always ready to learn anytime and improve. Keen to learn multiple technologies and stacks. Currently enthusiast about app development. Learning Cross platform app development using Flutter. Keeping up with the studies currently enrolled in a renowned institution of Mehran University of Engineering and Technology in software engineering department. Currently a third year student. With a focused aim of improving, advancing and keeping up with the modern world. </div>
 
 &nbsp;
-
+<br>
+<div align ="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=PardeepKumar816&color=lightgrey" />
+</div>
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PardeepKumar816&show_icons=true&theme=dark">
 </p>
