@@ -11,6 +11,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PardeepKumar816&show_icons=true&theme=dark">
 </p>
 
+<br>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PardeepKumar816&theme=radical" alt="PardeepKumar816" />
+</p>
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PardeepKumar816&theme=dark">
 </p>
