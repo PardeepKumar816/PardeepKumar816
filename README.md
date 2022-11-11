@@ -13,7 +13,7 @@
 
 <br>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PardeepKumar816&theme=radical" alt="PardeepKumar816" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PardeepKumar816&theme=dark" alt="PardeepKumar816" />
 </p>
 <br>
 
