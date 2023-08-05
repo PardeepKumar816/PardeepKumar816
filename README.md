@@ -3,7 +3,7 @@
 <h1 align="center">Konnichiwa 👋 , I am Pardeep Kumar <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRntTQbbjP7CIWtl-9RZSW8-RlLTRaiJVyGpcU63xg_owLAl0OMmwwU_A-GcCHR7rq_3dU&usqp=CAU" width="65px"></h1>
 
 <!-- <h3 align="center"> Software Engineering Student 👨‍💻. </h3> -->
-<div align="center"> A multidisciplinary developer with an enormous craze of software development and technology, blessed with intellect and creativity. Always ready to learn anytime and improve. Keen to learn multiple technologies and stacks. Currently enthusiast about app development. Learning Cross platform app development using Flutter. Keeping up with the studies currently enrolled in a renowned institution of Mehran University of Engineering and Technology in software engineering department. Currently a third year student. With a focused aim of improving, advancing and keeping up with the modern world. </div>
+<div align="center"> A multidisciplinary developer with an enormous craze of software development and technology, blessed with intellect and creativity. Always ready to learn anytime and improve. Keen to learn multiple technologies and stacks. Currently enthusiast about app development. Learning Cross platform app development using Flutter. Keeping up with the studies currently enrolled in a renowned institution of Mehran University of Engineering and Technology in software engineering department. Currently a final year student. With a focused aim of improving, advancing and keeping up with the modern world. </div>
 
 &nbsp;
 <br>
