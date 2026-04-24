@@ -126,14 +126,14 @@ Currently expanding into **AI Engineering** — actively learning **LangChain**,
       <a href="https://play.google.com/store/apps/details?id=com.production.ill_lit_sports_app&pcampaignid=web_share"><img src="https://img.shields.io/badge/Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=white"/></a>
     </td>
     <td width="50%">
-      <h3>🛍️ OceanicView — E-Commerce App</h3>
-      <p><strong>Stack:</strong> Flutter · Firebase · REST API · BLoC · Stripe · WebSocket · Localization</p>
+      <h3>🔐 ListCrime — Cybersecurity Platform</h3>
+     <p><strong>Stack:</strong> Flutter · Node.js · Firebase · REST API · BLoC</p>
       <ul>
-        <li>Live chat, social logins, Stripe payments in a multi-platform e-commerce app</li>
-        <li>API caching + offline functionality for global users</li>
-        <li>Multi-language localization for international scale</li>
+        <li>Built a full cybersecurity platform featuring <strong>Dark Web Monitoring</strong>, phishing email reporting with threat scores, and real-time URL/domain scanning</li>
+        <li>Community-driven threat sharing — users report & discuss cyber threats with peers and experts in real time</li>
+        <li>Collaborated with IC3/FTC reporting workflows; designed for everyone from tech novices to security professionals</li>
       </ul>
-      <a href="#"><img src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=apple&logoColor=white"/></a>
+      <a href="https://play.google.com/store/apps/details?id=listcrime"><img src="https://img.shields.io/badge/Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
