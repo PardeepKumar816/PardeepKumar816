@@ -184,21 +184,21 @@ Currently expanding into **AI Engineering** — actively learning **LangChain**,
 
 ---
 
-## 🤖 Currently Learning — AI Engineering
+## 🤖 AI Engineering — Expanding My Stack
 
-I'm actively building skills at the intersection of **software engineering and AI**:
+My software engineering foundation meets AI — I work with the modern LLM stack to build intelligent, production-grade systems:
 
 ```python
 ai_stack = {
     "frameworks":   ["LangChain", "LangGraph", "LangSmith"],
-    "concepts":     ["RAG", "Agents", "Tool Calling", "Memory", "Chains"],
+    "concepts":     ["RAG Pipelines", "AI Agents", "Tool Calling", "Memory", "Chains", "Observability"],
     "languages":    ["Python", "Dart", "JavaScript"],
-    "goal":         "Build production-grade AI-powered applications",
-    "timeline":     "Actively learning → AI Engineer 🚀"
+    "builds":       ["Agentic workflows", "LLM-powered apps", "Monitored pipelines via LangSmith"],
+    "edge":         "4+ years shipping production apps → AI features that actually reach users 🚀"
 }
 ```
 
-My mobile and backend engineering background gives me a strong foundation to ship **end-to-end AI products** — not just prototype them.
+Most AI engineers can prototype. I can ship — with clean architecture, real backends, and apps already in users' hands on the App Store & Play Store.
 
 ---
 
