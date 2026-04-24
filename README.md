@@ -99,8 +99,8 @@ Currently expanding into **AI Engineering** — actively learning **LangChain**,
         <li>FCM push notifications + offline caching for low-connectivity reliability</li>
         <li>Geocoding + Geolocator + Google Maps for live tracking</li>
       </ul>
-      <a href="#"><img src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=apple&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=white"/></a>
+      <a href="https://apps.apple.com/pk/app/save-a-bite/id6746266615"><img src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=apple&logoColor=white"/></a>
+      <a href="https://play.google.com/store/apps/details?id=com.dev.saveabite.save_a_bite&pcampaignid=web_share&pli=1"><img src="https://img.shields.io/badge/Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=white"/></a>
     </td>
     <td width="50%">
       <h3>💸 Chat&Send — Fintech App</h3>
@@ -110,7 +110,7 @@ Currently expanding into **AI Engineering** — actively learning **LangChain**,
         <li>JWT-based auth protecting sensitive user financial data</li>
         <li>Clean architecture ensuring maintainability at scale</li>
       </ul>
-      <a href="#"><img src="https://img.shields.io/badge/Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=white"/></a>
+      <a href="https://play.google.com/store/apps/details?id=com.dev.chatnsend&pcampaignid=web_share"><img src="https://img.shields.io/badge/Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
@@ -122,8 +122,8 @@ Currently expanding into **AI Engineering** — actively learning **LangChain**,
         <li>Optimized app from <strong>90MB → 35MB</strong> (61% reduction)</li>
         <li>FCM, offline caching, location services, Stripe — built solo</li>
       </ul>
-      <a href="#"><img src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=apple&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=white"/></a>
+      <a href="https://apps.apple.com/pk/app/ill-lit-sports/id6743541927"><img src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=apple&logoColor=white"/></a>
+      <a href="https://play.google.com/store/apps/details?id=com.production.ill_lit_sports_app&pcampaignid=web_share"><img src="https://img.shields.io/badge/Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=white"/></a>
     </td>
     <td width="50%">
       <h3>🛍️ OceanicView — E-Commerce App</h3>
