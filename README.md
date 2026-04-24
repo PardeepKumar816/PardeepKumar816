@@ -64,7 +64,7 @@ Currently expanding into **AI Engineering** — actively learning **LangChain**,
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Agora](https://img.shields.io/badge/Agora%20SDK-099DFD?style=for-the-badge&logoColor=white)
 
-### 🤖 AI / LLM (Learning)
+### 🤖 AI / LLM
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -172,17 +172,6 @@ Currently expanding into **AI Engineering** — actively learning **LangChain**,
 
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PardeepKumar816&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🤖 AI Engineering — Expanding My Stack
 
