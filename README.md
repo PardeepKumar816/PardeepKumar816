@@ -133,7 +133,7 @@ Currently expanding into **AI Engineering** — actively learning **LangChain**,
         <li>Community-driven threat sharing — users report & discuss cyber threats with peers and experts in real time</li>
         <li>Collaborated with IC3/FTC reporting workflows; designed for everyone from tech novices to security professionals</li>
       </ul>
-      <a href="https://play.google.com/store/apps/details?id=listcrime"><img src="https://img.shields.io/badge/Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=white"/></a>
+      <a href="https://play.google.com/store/apps/details?id=com.listcrimellc.listcrimeapp&pcampaignid=web_share"><img src="https://img.shields.io/badge/Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
